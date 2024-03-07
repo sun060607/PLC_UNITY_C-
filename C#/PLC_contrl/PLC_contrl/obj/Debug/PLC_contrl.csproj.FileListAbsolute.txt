@@ -1,0 +1,13 @@
+D:\3408\C#\PLC_contrl\PLC_contrl\bin\Debug\PLC_contrl.exe.config
+D:\3408\C#\PLC_contrl\PLC_contrl\bin\Debug\PLC_contrl.exe
+D:\3408\C#\PLC_contrl\PLC_contrl\bin\Debug\PLC_contrl.pdb
+D:\3408\C#\PLC_contrl\PLC_contrl\bin\Debug\NModbus4.dll
+D:\3408\C#\PLC_contrl\PLC_contrl\bin\Debug\NModbus4.xml
+D:\3408\C#\PLC_contrl\PLC_contrl\obj\Debug\PLC_contrl.csproj.AssemblyReference.cache
+D:\3408\C#\PLC_contrl\PLC_contrl\obj\Debug\PLC_contrl.Form1.resources
+D:\3408\C#\PLC_contrl\PLC_contrl\obj\Debug\PLC_contrl.Properties.Resources.resources
+D:\3408\C#\PLC_contrl\PLC_contrl\obj\Debug\PLC_contrl.csproj.GenerateResource.cache
+D:\3408\C#\PLC_contrl\PLC_contrl\obj\Debug\PLC_contrl.csproj.CoreCompileInputs.cache
+D:\3408\C#\PLC_contrl\PLC_contrl\obj\Debug\PLC_contrl.csproj.Up2Date
+D:\3408\C#\PLC_contrl\PLC_contrl\obj\Debug\PLC_contrl.exe
+D:\3408\C#\PLC_contrl\PLC_contrl\obj\Debug\PLC_contrl.pdb
